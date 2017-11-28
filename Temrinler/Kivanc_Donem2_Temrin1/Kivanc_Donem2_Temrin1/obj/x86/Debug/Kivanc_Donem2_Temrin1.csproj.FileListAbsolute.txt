@@ -1,0 +1,18 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\bin\Debug\Kivanc_Donem2_Temrin1.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\bin\Debug\Kivanc_Donem2_Temrin1.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.pdb
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.exe
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.pdb
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\bin\Debug\Kivanc_Donem2_Temrin1.exe
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\bin\Debug\Kivanc_Donem2_Temrin1.pdb
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.Form1.resources
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.Properties.Resources.resources
+E:\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.csproj.GenerateResource.Cache
+E:\Nesne Tabanlı Programlama C#\Temrinler\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.exe
+E:\Nesne Tabanlı Programlama C#\Temrinler\Kivanc_Donem2_Temrin1\Kivanc_Donem2_Temrin1\obj\x86\Debug\Kivanc_Donem2_Temrin1.pdb

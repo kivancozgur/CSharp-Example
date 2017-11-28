@@ -1,0 +1,76 @@
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Properties.Resources.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csproj.GenerateResource.Cache
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.exe
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.pdb
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.anaform.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.İletisim.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Kategoriler.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcalar.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csprojResolveAssemblyReference.cache
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunler.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunstok.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcastok.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Satis.resources
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\bin\Debug\stoktakip.mdf
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\bin\Debug\stoktakip_log.ldf
+D:\2016 projeler\Enigma Stok Takip\Program\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+E:\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.exe
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.pdb
+E:\Stok Takip\Stok Takip\bin\Debug\stoktakip.mdf
+E:\Stok Takip\Stok Takip\bin\Debug\stoktakip_log.ldf
+E:\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+E:\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+E:\Stok Takip\Stok Takip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.anaform.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Kategoriler.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcalar.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcastok.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Properties.Resources.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Satis.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunler.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunstok.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.İletisim.resources
+E:\Stok Takip\Stok Takip\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Stok Takip\Stok Takip\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.exe
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.pdb
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.exe
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.pdb
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Debug\stoktakip.mdf
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Debug\stoktakip_log.ldf
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.anaform.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Kategoriler.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcalar.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcastokk.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Satis.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunler.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunstok.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.İletisim.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\bin\Debug\stoktakip.mdf
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\bin\Debug\stoktakip_log.ldf
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csprojResolveAssemblyReference.cache
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.anaform.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Kategoriler.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcalar.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Parcastokk.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Properties.Resources.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Satis.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunler.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.Urunstok.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok_Takip.İletisim.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\Stok Takip\Stok Takip\obj\x86\Debug\Stok Takip.csproj.GenerateResource.Cache

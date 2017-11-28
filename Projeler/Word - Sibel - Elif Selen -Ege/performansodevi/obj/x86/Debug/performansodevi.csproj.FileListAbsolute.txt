@@ -1,0 +1,24 @@
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\bin\Debug\performansodevi.exe
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\bin\Debug\performansodevi.pdb
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.csprojResolveAssemblyReference.cache
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.Form1.resources
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.Properties.Resources.resources
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.csproj.GenerateResource.Cache
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.exe
+C:\Users\BurNet\Desktop\Sibelin klasörü (WOLFIAN)\performansodevi\performansodevi\obj\x86\Debug\performansodevi.pdb
+G:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.exe
+G:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.pdb
+E:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.exe
+E:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.pdb
+E:\performansodevi\performansodevi\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.Form1.resources
+E:\performansodevi\performansodevi\obj\x86\Debug\performansodevi.Properties.Resources.resources
+E:\performansodevi\performansodevi\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\performansodevi\performansodevi\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\performansodevi.exe
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\performansodevi.pdb
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\performansodevi.Form1.resources
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\performansodevi.Properties.Resources.resources
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Performanslar\Word - Sibel - Elif Selen -Ege\performansodevi\obj\x86\Debug\GenerateResource.write.1.tlog

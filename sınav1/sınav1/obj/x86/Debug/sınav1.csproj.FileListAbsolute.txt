@@ -1,0 +1,9 @@
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\bin\Debug\sınav1.exe
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\bin\Debug\sınav1.pdb
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\sınav1.exe
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\sınav1\sınav1\obj\x86\Debug\sınav1.pdb

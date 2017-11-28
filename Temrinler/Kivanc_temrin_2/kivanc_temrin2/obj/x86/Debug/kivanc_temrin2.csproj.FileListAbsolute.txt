@@ -1,0 +1,14 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\bin\Debug\kivanc_temrin2.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\bin\Debug\kivanc_temrin2.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.Form2.resources
+C:\Users\kvnco\Desktop\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.exe
+C:\Users\kvnco\Desktop\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.pdb
+C:\Users\kvnco\Desktop\Temrinler\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.exe
+C:\Users\kvnco\Desktop\Temrinler\kivanc_temrin2\kivanc_temrin2\obj\x86\Debug\kivanc_temrin2.pdb

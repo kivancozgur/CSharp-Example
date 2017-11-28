@@ -1,0 +1,35 @@
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Release\Stok Takip.exe.config
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.anaform.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Kategoriler.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Parcalar.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Parcastokk.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Properties.Resources.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Satis.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Urunler.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Urunstok.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.İletisim.resources
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.csproj.GenerateResource.Cache
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Release\stoktakip.mdf
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Release\stoktakip_log.ldf
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Release\Stok Takip.exe
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\bin\Release\Stok Takip.pdb
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.exe
+D:\Bilişim\Projeler\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.pdb
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Release\Stok Takip.exe.config
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.exe
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.pdb
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Release\stoktakip.mdf
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Release\stoktakip_log.ldf
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Release\Stok Takip.exe
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\bin\Release\Stok Takip.pdb
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.anaform.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Kategoriler.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Parcalar.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Parcastokk.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Satis.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Urunler.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.Urunstok.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok_Takip.İletisim.resources
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Stok Takip\Stok Takip\obj\x86\Release\Stok Takip.csprojResolveAssemblyReference.cache

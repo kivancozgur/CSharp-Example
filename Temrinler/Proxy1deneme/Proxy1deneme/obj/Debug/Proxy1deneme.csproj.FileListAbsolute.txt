@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\bin\Debug\Proxy1deneme.exe.config
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\bin\Debug\Proxy1deneme.exe
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\bin\Debug\Proxy1deneme.pdb
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.csprojResolveAssemblyReference.cache
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.Form1.resources
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.Properties.Resources.resources
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.exe
+C:\Users\kvnco\Desktop\Temrinler\Proxy1deneme\Proxy1deneme\obj\Debug\Proxy1deneme.pdb

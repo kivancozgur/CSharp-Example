@@ -1,0 +1,7 @@
+D:\Kıvanç\stok_programi\stok_programi\bin\x86\Debug\stok_programi.exe
+D:\Kıvanç\stok_programi\stok_programi\bin\x86\Debug\stok_programi.pdb
+D:\Kıvanç\stok_programi\stok_programi\obj\x86\Debug\stok_programi.Form1.resources
+D:\Kıvanç\stok_programi\stok_programi\obj\x86\Debug\stok_programi.Properties.Resources.resources
+D:\Kıvanç\stok_programi\stok_programi\obj\x86\Debug\stok_programi.csproj.GenerateResource.Cache
+D:\Kıvanç\stok_programi\stok_programi\obj\x86\Debug\stok_programi.exe
+D:\Kıvanç\stok_programi\stok_programi\obj\x86\Debug\stok_programi.pdb

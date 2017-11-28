@@ -1,0 +1,32 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form2.resources
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.exe
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.pdb
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form1.resources
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form2.resources
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Properties.Resources.resources
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.exe
+C:\Users\mert\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.pdb
+C:\Users\Ogrenci\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.exe
+C:\Users\Ogrenci\Desktop\Sesli Komut Perfonmans\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.pdb
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.exe
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\Sesli Komut Perfonmans.pdb
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.exe
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\bin\Debug\Sesli Komut Perfonmans.pdb
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form1.resources
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Form2.resources
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\Sesli_Komut_Perfonmans.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\Sesli Komut;Mert,Yunus,Erkan\Sesli Komut Perfonmans\obj\x86\Debug\GenerateResource.write.1.tlog

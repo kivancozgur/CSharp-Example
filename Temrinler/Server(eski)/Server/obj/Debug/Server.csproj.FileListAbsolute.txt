@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\bin\Debug\Server.exe.config
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\bin\Debug\Server.exe
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\bin\Debug\Server.pdb
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.exe
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.pdb
+C:\Users\kvnco\Desktop\Temrinler\Server\Server\obj\Debug\Server.Form2.resources

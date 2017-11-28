@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\bin\Debug\Temrin_Geliştirme.exe.config
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\bin\Debug\Temrin_Geliştirme.exe
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\bin\Debug\Temrin_Geliştirme.pdb
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.csprojResolveAssemblyReference.cache
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.Form1.resources
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.Properties.Resources.resources
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.exe
+C:\Users\kvnco\Desktop\Temrinler\Temrin_Geliştirme\Temrin_Geliştirme\obj\Debug\Temrin_Geliştirme.pdb

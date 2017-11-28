@@ -1,0 +1,22 @@
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.exe
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.MusteriKayitForm.resources
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.Properties.Resources.resources
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.csproj.GenerateResource.Cache
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.exe
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.pdb
+c:\users\oem\documents\visual studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.MusterilerForm.resources
+C:\Users\oem\Documents\Visual Studio 2010\Projects\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.csprojResolveAssemblyReference.cache
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.exe
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.pdb
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.exe
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\bin\Debug\Teknik_Servis.pdb
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.csprojResolveAssemblyReference.cache
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.csproj.GenerateResource.Cache
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.Giris.resources
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.AnaForm.resources
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.exe.licenses
+C:\Users\oem\Desktop\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.AnaForm2.resources
+D:\Kıvanç\Programlama\C#\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.exe
+D:\Kıvanç\Programlama\C#\Teknik_Servis\Teknik_Servis\obj\x86\Debug\Teknik_Servis.pdb

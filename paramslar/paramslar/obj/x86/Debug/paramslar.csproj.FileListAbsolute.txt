@@ -1,0 +1,11 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\paramslar.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\paramslar.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\bin\Debug\paramslar.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\bin\Debug\paramslar.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\paramslar.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\paramslar\paramslar\obj\x86\Debug\paramslar.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Donem2örneklerim\paramslar\paramslar\obj\x86\Debug\paramslar.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Donem2örneklerim\paramslar\paramslar\obj\x86\Debug\paramslar.pdb

@@ -1,0 +1,9 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\bin\Debug\Queue-Stack.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\bin\Debug\Queue-Stack.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\Queue_Stack.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\Queue_Stack.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\Queue-Stack.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Queue-Stack\Queue-Stack\obj\x86\Debug\Queue-Stack.pdb

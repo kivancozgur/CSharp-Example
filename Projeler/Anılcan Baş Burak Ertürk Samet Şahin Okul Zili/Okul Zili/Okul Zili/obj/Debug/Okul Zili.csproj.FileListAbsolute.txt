@@ -1,0 +1,35 @@
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.exe.config
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.csprojResolveAssemblyReference.cache
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form1.resources
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form2.resources
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Properties.Resources.resources
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.csproj.GenerateResource.Cache
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.exe
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.pdb
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form3.resources
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.exe
+C:\Users\HeavyAlone\Desktop\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.pdb
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.exe.config
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.exe
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul Zili.pdb
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.exe
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\Okul Zili.pdb
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\mscorlib.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.Data.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.Transactions.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.EnterpriseServices.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.Web.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.Data.OracleClient.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\normidna.nlp
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\normnfc.nlp
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\normnfd.nlp
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\normnfkc.nlp
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\normnfkd.nlp
+E:\Okul Zili C#\Okul Zili\Okul Zili\bin\Debug\System.EnterpriseServices.Wrapper.dll
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\ResolveAssemblyReference.cache
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form1.resources
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form2.resources
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Form3.resources
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\Okul_Zili.Properties.Resources.resources
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\GenerateResource.read.1.tlog
+E:\Okul Zili C#\Okul Zili\Okul Zili\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,9 @@
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\bin\Debug\İstemci.exe
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\bin\Debug\İstemci.pdb
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\İstemci.Form1.resources
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\İstemci.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\İstemci.exe
+C:\Users\Ogrenci\Desktop\İstemci\İstemci\İstemci\obj\x86\Debug\İstemci.pdb

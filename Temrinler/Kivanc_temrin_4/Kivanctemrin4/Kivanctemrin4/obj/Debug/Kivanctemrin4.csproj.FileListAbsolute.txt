@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\bin\Debug\Kivanctemrin4.exe.config
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.csprojResolveAssemblyReference.cache
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.Form1.resources
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.Properties.Resources.resources
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\bin\Debug\Kivanctemrin4.exe
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\bin\Debug\Kivanctemrin4.pdb
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.exe
+C:\Users\kvnco\Desktop\NTP\Kivanc_Temrin4\Kivanctemrin4\Kivanctemrin4\obj\Debug\Kivanctemrin4.pdb

@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\bin\Debug\Kivanc_temrin_5.exe.config
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.csprojResolveAssemblyReference.cache
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.Form1.resources
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.Properties.Resources.resources
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\bin\Debug\Kivanc_temrin_5.exe
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\bin\Debug\Kivanc_temrin_5.pdb
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.exe
+C:\Users\kvnco\Desktop\Temrinler\Kivanc_temrin_5\Kivanc_temrin_5\Kivanc_temrin_5\obj\Debug\Kivanc_temrin_5.pdb

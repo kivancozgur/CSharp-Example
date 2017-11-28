@@ -1,0 +1,9 @@
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\bin\Debug\SERVERR.exe.config
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\bin\Debug\SERVERR.exe
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\bin\Debug\SERVERR.pdb
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.csprojResolveAssemblyReference.cache
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.Form1.resources
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.Properties.Resources.resources
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.csproj.GenerateResource.Cache
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.exe
+C:\Users\kvnco\Desktop\Temrinler\SERVERR\SERVERR\obj\Debug\SERVERR.pdb
