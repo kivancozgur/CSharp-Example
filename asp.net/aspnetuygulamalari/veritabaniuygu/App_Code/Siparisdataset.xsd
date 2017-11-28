@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Siparisdataset" targetNamespace="http://tempuri.org/Siparisdataset.xsd" xmlns:mstns="http://tempuri.org/Siparisdataset.xsd" xmlns="http://tempuri.org/Siparisdataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="denemeConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="denemeConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.denemeConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="siparistableTableAdapter" GeneratorDataComponentClassName="siparistableTableAdapter" Name="siparistable" UserDataComponentName="siparistableTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="denemeConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT      siparisler.adet, siparisler.sip_tarihi, siparisler.sipno, urunler.urunadi, urunler.fiyat, uyeler.adsoyad
+FROM         siparisler INNER JOIN
+                   urunler ON siparisler.urunid = urunler.urunid INNER JOIN
+                   uyeler ON siparisler.uyeid = uyeler.uyeid</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="adet" DataSetColumn="adet" />
+              <Mapping SourceColumn="sip_tarihi" DataSetColumn="sip_tarihi" />
+              <Mapping SourceColumn="sipno" DataSetColumn="sipno" />
+              <Mapping SourceColumn="urunadi" DataSetColumn="urunadi" />
+              <Mapping SourceColumn="fiyat" DataSetColumn="fiyat" />
+              <Mapping SourceColumn="adsoyad" DataSetColumn="adsoyad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Siparisdataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Siparisdataset" msprop:Generator_UserDSName="Siparisdataset">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="siparistable" msprop:Generator_TableClassName="siparistableDataTable" msprop:Generator_TableVarName="tablesiparistable" msprop:Generator_TablePropName="siparistable" msprop:Generator_RowDeletingName="siparistableRowDeleting" msprop:Generator_RowChangingName="siparistableRowChanging" msprop:Generator_RowEvHandlerName="siparistableRowChangeEventHandler" msprop:Generator_RowDeletedName="siparistableRowDeleted" msprop:Generator_UserTableName="siparistable" msprop:Generator_RowChangedName="siparistableRowChanged" msprop:Generator_RowEvArgName="siparistableRowChangeEvent" msprop:Generator_RowClassName="siparistableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="adet" msprop:Generator_ColumnVarNameInTable="columnadet" msprop:Generator_ColumnPropNameInRow="adet" msprop:Generator_ColumnPropNameInTable="adetColumn" msprop:Generator_UserColumnName="adet" type="xs:short" />
+              <xs:element name="sip_tarihi" msprop:Generator_ColumnVarNameInTable="columnsip_tarihi" msprop:Generator_ColumnPropNameInRow="sip_tarihi" msprop:Generator_ColumnPropNameInTable="sip_tarihiColumn" msprop:Generator_UserColumnName="sip_tarihi" type="xs:dateTime" />
+              <xs:element name="sipno" msprop:Generator_ColumnVarNameInTable="columnsipno" msprop:Generator_ColumnPropNameInRow="sipno" msprop:Generator_ColumnPropNameInTable="sipnoColumn" msprop:Generator_UserColumnName="sipno" type="xs:int" />
+              <xs:element name="urunadi" msprop:Generator_ColumnVarNameInTable="columnurunadi" msprop:Generator_ColumnPropNameInRow="urunadi" msprop:Generator_ColumnPropNameInTable="urunadiColumn" msprop:Generator_UserColumnName="urunadi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fiyat" msprop:Generator_ColumnVarNameInTable="columnfiyat" msprop:Generator_ColumnPropNameInRow="fiyat" msprop:Generator_ColumnPropNameInTable="fiyatColumn" msprop:Generator_UserColumnName="fiyat" type="xs:double" />
+              <xs:element name="adsoyad" msprop:Generator_ColumnVarNameInTable="columnadsoyad" msprop:Generator_ColumnPropNameInRow="adsoyad" msprop:Generator_ColumnPropNameInTable="adsoyadColumn" msprop:Generator_UserColumnName="adsoyad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

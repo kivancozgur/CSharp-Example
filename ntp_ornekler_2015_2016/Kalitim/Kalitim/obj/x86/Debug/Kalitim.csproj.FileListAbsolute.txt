@@ -1,0 +1,11 @@
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.exe
+D:\tuncay\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.pdb
+E:\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.exe
+E:\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\Kalitim\Kalitim\obj\x86\Debug\Kalitim.pdb

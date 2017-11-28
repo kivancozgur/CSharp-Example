@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\bin\Debug\metot_islemler.exe
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\bin\Debug\metot_islemler.pdb
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\metot_islemler.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\metot_islemler.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\metot_islemler.exe
+D:\tuncay\ntp_ornekler_2015_2016\metot_islemler\metot_islemler\obj\x86\Debug\metot_islemler.pdb

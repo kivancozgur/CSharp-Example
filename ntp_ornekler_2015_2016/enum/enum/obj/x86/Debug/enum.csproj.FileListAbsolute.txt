@@ -1,0 +1,11 @@
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\enum.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\enum.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\bin\Debug\@enum.exe
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\bin\Debug\@enum.pdb
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\@enum.exe
+D:\tuncay\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\@enum.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\@enum.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\enum\enum\obj\x86\Debug\@enum.pdb

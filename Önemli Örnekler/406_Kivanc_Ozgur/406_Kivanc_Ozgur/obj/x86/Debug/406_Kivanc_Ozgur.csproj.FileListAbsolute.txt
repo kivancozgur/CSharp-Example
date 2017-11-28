@@ -1,0 +1,18 @@
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\_406_Kivanc_Ozgur.Form1.resources
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\_406_Kivanc_Ozgur.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\406_Kivanc_Ozgur.exe.config
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\veritabani.mdf
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\veritabani_log.ldf
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\406_Kivanc_Ozgur.exe
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\406_Kivanc_Ozgur.pdb
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.exe
+C:\Users\Ogrenci\Desktop\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\406_Kivanc_Ozgur.exe.config
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.pdb
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\bin\Debug\406_Kivanc_Ozgur.exe.config
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.exe
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\406_Kivanc_Ozgur\406_Kivanc_Ozgur\obj\x86\Debug\406_Kivanc_Ozgur.pdb

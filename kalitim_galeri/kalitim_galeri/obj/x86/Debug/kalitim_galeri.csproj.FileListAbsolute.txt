@@ -1,0 +1,18 @@
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\bin\Debug\kalitim_galeri.exe
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\bin\Debug\kalitim_galeri.pdb
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\kalitim_galeri.exe
+E:\eskie\eskidisk\d_diski\ders notları\modülereğitim\yenimodüller\ntp_yenimodülller\ornekler\kalitim_galeri\kalitim_galeri\obj\x86\Debug\kalitim_galeri.pdb
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\kalitim_galeri.exe
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\kalitim_galeri.pdb
+E:\kalitim_galeri\kalitim_galeri\bin\Debug\kalitim_galeri.exe
+E:\kalitim_galeri\kalitim_galeri\bin\Debug\kalitim_galeri.pdb
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\kalitim_galeri\kalitim_galeri\obj\x86\Debug\GenerateResource.write.1.tlog

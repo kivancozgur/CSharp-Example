@@ -1,0 +1,9 @@
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\bin\Debug\206_Haydar_Demirci.exe.config
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\bin\Debug\206_Haydar_Demirci.exe
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\bin\Debug\206_Haydar_Demirci.pdb
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\206_Haydar_Demirci.csprojResolveAssemblyReference.cache
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\_206_Haydar_Demirci.Form1.resources
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\_206_Haydar_Demirci.Properties.Resources.resources
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\206_Haydar_Demirci.csproj.GenerateResource.Cache
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\206_Haydar_Demirci.exe
+c:\users\lab6\documents\visual studio 2013\Projects\206_Haydar_Demirci\206_Haydar_Demirci\obj\Debug\206_Haydar_Demirci.pdb

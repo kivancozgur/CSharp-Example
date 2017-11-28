@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\bin\Debug\diziler.exe
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\bin\Debug\diziler.pdb
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\diziler.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\diziler.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\diziler.exe
+D:\tuncay\ntp_ornekler_2015_2016\diziler\diziler\obj\x86\Debug\diziler.pdb

@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\bin\Debug\Siniflar.exe
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\bin\Debug\Siniflar.pdb
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\Siniflar.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\Siniflar.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\Siniflar.exe
+D:\tuncay\ntp_ornekler_2015_2016\Siniflar\Siniflar\obj\x86\Debug\Siniflar.pdb

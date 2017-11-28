@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\Koleksiyonlar.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\Koleksiyonlar.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\Koleksiyonlar.exe
+D:\tuncay\ntp_ornekler_2015_2016\Koleksiyonlar\Koleksiyonlar\obj\x86\Debug\Koleksiyonlar.pdb

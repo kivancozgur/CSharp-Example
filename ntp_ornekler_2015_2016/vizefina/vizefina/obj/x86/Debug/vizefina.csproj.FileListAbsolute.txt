@@ -1,0 +1,12 @@
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\bin\Debug\vizefina.exe
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\bin\Debug\vizefina.pdb
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.Form2.resources
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.exe
+D:\tuncay\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.pdb
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.exe
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\ntp_ornekler_2015_2016\vizefina\vizefina\obj\x86\Debug\vizefina.pdb

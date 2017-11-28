@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\while\while\bin\Debug\@while.exe
+D:\tuncay\ntp_ornekler_2015_2016\while\while\bin\Debug\@while.pdb
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\while.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\while.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\@while.exe
+D:\tuncay\ntp_ornekler_2015_2016\while\while\obj\x86\Debug\@while.pdb

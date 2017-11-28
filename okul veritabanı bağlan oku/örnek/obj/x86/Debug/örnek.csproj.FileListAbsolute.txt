@@ -1,0 +1,60 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\örnek.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\örnek.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\bin\Debug\okul.mdf
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\bin\Debug\okul_log.ldf
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\bin\Debug\örnek.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\bin\Debug\örnek.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\örnek.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\örnek\örnek\obj\x86\Debug\örnek.pdb
+N:\Bilişim\Okul Çalışma veritabanı\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.exe
+N:\Bilişim\Okul Çalışma veritabanı\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.pdb
+G:\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.exe
+G:\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.pdb
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.exe
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.pdb
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.exe
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.pdb
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\bin\Debug\okul.mdf
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\bin\Debug\okul_log.ldf
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Ogrecicilgigetir_kaydet.resources
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Kayitgezintisi_sil_degistir.resources
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form_listviewkullanımı.resources
+D:\tuncay\ntp_ornekler_2015_2016\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Not_rapor_kullanimi.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.exe
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.pdb
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\bin\Debug\okul.mdf
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\bin\Debug\okul_log.ldf
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.exe
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.pdb
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form1.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form2.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form_listviewkullanımı.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Kayitgezintisi_sil_degistir.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Not_rapor_kullanimi.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Ogrecicilgigetir_kaydet.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Properties.Resources.resources
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.csprojResolveAssemblyReference.cache
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\bin\Debug\okul.mdf
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\bin\Debug\okul_log.ldf
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\bin\Debug\örnek.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.csprojResolveAssemblyReference.cache
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form1.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form2.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Form_listviewkullanımı.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Kayitgezintisi_sil_degistir.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Not_rapor_kullanimi.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Ogrecicilgigetir_kaydet.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.Properties.Resources.resources
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Önemli Örnekler\okul veritabanı bağlan oku\örnek\obj\x86\Debug\örnek.csproj.GenerateResource.Cache

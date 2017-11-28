@@ -1,0 +1,10 @@
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\bin\Debug\structlar.exe
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\bin\Debug\structlar.pdb
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\structlar.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\structlar.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\structlar.exe
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\structlar.pdb
+D:\tuncay\ntp_ornekler_2015_2016\structlar\structlar\obj\x86\Debug\structlar.Form2.resources

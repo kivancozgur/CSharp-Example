@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2010\Projects\Stoktakipproje\Stoktakipproje\bin\Stoktakipproje.dll
+c:\users\asus\documents\visual studio 2010\Projects\Stoktakipproje\Stoktakipproje\bin\Stoktakipproje.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Stoktakipproje\Stoktakipproje\obj\Debug\Stoktakipproje.dll
+c:\users\asus\documents\visual studio 2010\Projects\Stoktakipproje\Stoktakipproje\obj\Debug\Stoktakipproje.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Stoktakipproje\Stoktakipproje\obj\Debug\Stoktakipproje.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani_mvc.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani mvc.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\bin\Debug\veritabani mvc.exe
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\bin\Debug\veritabani mvc.pdb
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani mvc.exe
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani mvc.pdb
+c:\users\asus\documents\visual studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani_mvc.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani_mvc.Formilerigeri.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\veritabani mvc\veritabani mvc\obj\x86\Debug\veritabani mvc.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\Kalitim.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\Kalitim.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\Kalitim.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kalitim\Kalitim\obj\x86\Debug\Kalitim.pdb
+E:\Kalitim\Kalitim\obj\x86\Debug\Kalitim.exe
+E:\Kalitim\Kalitim\obj\x86\Debug\Kalitim.pdb
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Donem2örneklerim\Kalitim\Kalitim\obj\x86\Debug\Kalitim.exe
+D:\Kıvanç\OKUL\Nesne Tabanlı Programlama C#\Donem2örneklerim\Kalitim\Kalitim\obj\x86\Debug\Kalitim.pdb

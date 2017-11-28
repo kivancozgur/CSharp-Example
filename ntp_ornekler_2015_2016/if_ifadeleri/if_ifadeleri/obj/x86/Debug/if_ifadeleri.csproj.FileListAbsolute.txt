@@ -1,0 +1,11 @@
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\bin\Debug\if_ifadeleri.exe
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\bin\Debug\if_ifadeleri.pdb
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.exe
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.pdb
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.Form2.resources
+D:\tuncay\ntp_ornekler_2015_2016\if_ifadeleri\if_ifadeleri\obj\x86\Debug\if_ifadeleri.Form3.resources

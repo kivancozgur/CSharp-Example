@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/img/5.jpg</ImageUrl>
+    <NavigateUrl>http://www.alisverisrehberi.com/</NavigateUrl>
+    <AlternateText>alisverisrehberi.com</AlternateText>
+    <Keyword>esite</Keyword>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/img/4.jpg</ImageUrl>
+    <NavigateUrl>http://www.hepsiburada.com</NavigateUrl>>
+    <AlternateText>hepsiburada.com</AlternateText>
+    <Keyword>esite</Keyword>
+    <Impressions>30</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/img/3.gif</ImageUrl>
+    <NavigateUrl>http://www.kitapyurdu.com/</NavigateUrl>
+    <AlternateText>kitapyurdu.com</AlternateText>
+    <Keyword>kitap</Keyword>
+    <Impressions>10</Impressions>
+  </Ad>
+
+  
+  
+  
+</Advertisements>
+
+

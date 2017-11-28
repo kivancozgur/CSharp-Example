@@ -1,0 +1,22 @@
+﻿    body 
+{ margin-top:200px;
+  margin-left:300px;
+background-color:Gray;
+}
+#Kaydetbtn:hover
+{-webkit-box-shadow: 1px 1px 4px 2px #91FF99;
+ -webkit-transition:0.3s;
+    }
+    #Silbtn:hover
+    {
+    -webkit-box-shadow: 1px 1px 4px 2px #FF4040;
+     -webkit-transition:0.25s;
+}
+#Adettext
+{
+    -webkit-border-radius: 6px 6px 6px 6px;
+    border: 1px #ccc solid;}
+    #Uruntext
+{
+    -webkit-border-radius: 6px 6px 6px 6px;
+    border: 1px #ccc solid;}

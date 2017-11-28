@@ -1,0 +1,29 @@
+﻿body {
+}
+#container
+{
+    width:1000px;
+    background-color:#B59075;
+    margin-left:auto;
+    margin-right:auto;
+}
+#banner
+{
+    height:300px;
+}
+#menu
+{
+ width:400px;
+height:25px;
+margin:0 auto;
+margin-top:30px;
+    
+}
+#icerik
+{
+    height:500px;
+}
+#footer
+{
+    height:70px;
+}

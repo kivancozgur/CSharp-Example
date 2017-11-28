@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\bin\Debug\sifrethamin.exe
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\bin\Debug\sifrethamin.pdb
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\sifrethamin.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\sifrethamin.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\sifrethamin.exe
+D:\tuncay\ntp_ornekler_2015_2016\sifrethamin\sifrethamin\obj\x86\Debug\sifrethamin.pdb

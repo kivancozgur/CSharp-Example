@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\obj\x86\Debug\Sinavornek.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\obj\x86\Debug\Sinavornek.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\obj\x86\Debug\Sinavornek.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\bin\Debug\Sinavornek.exe
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\bin\Debug\Sinavornek.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\obj\x86\Debug\Sinavornek.exe
+c:\users\asus\documents\visual studio 2010\Projects\Sinavornek\Sinavornek\obj\x86\Debug\Sinavornek.pdb

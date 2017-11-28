@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\Kivanc_Donem2_Temrin8.exe
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\Kivanc_Donem2_Temrin8.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.exe
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\okul.mdf
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\okul_log.ldf
+c:\users\asus\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\Kivanc_Donem2_Temrin8.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.csprojResolveAssemblyReference.cache
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\bin\Debug\Kivanc_Donem2_Temrin8.exe.config
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.exe
+D:\Kıvanç\Programlama - Okul\Nesne Tabanlı Programlama C#\Önemli Örnekler\Kivanc_Donem2_Temrin8\Kivanc_Donem2_Temrin8\obj\x86\Debug\Kivanc_Donem2_Temrin8.pdb

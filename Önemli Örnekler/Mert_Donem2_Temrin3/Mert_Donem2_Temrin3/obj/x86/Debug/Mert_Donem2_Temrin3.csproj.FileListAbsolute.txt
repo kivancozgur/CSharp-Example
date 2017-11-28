@@ -1,0 +1,33 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.pdb
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.exe
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.pdb
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.exe
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.pdb
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Form1.resources
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Properties.Resources.resources
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.exe
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.pdb
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.exe
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.pdb
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Form1.resources
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Properties.Resources.resources
+M:\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.exe
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.pdb
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.exe
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\bin\Debug\Mert_Donem2_Temrin3.pdb
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Form1.resources
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Mert_Donem2_Temrin3\Mert_Donem2_Temrin3\obj\x86\Debug\Mert_Donem2_Temrin3.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\switch.Form1.resources
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\switch.Properties.Resources.resources
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\bin\Debug\@switch.exe
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\bin\Debug\@switch.pdb
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\@switch.exe
+D:\tuncay\ntp_ornekler_2015_2016\switch\switch\obj\x86\Debug\@switch.pdb

@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Ziyaretci.master.cs" Inherits="Ziyaretci" %>
+
+<%@ Register assembly="FlashControl" namespace="Bewise.Web.UI.WebControls" tagprefix="Bewise" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<script type="text/javascript">
+    var GB_ROOT_DIR = "greybox/";
+</script>
+<script type="text/javascript" src="greybox/AJS.js"></script>
+<script type="text/javascript" src="greybox/AJS_fx.js"></script>
+<script type="text/javascript" src="greybox/gb_scripts.js"></script>
+<link href="greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+
+
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            height: 94px;
+        }
+        .style2
+        {
+            width: 704px;
+            height: 701px;
+        }
+        .style3
+        {
+            height: 701px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 100%; height: 332px;" width="%100">
+            <tr>
+                <td class="style1" colspan="3">
+                    <Bewise:FlashControl ID="FlashControl1" runat="server" Height="114px" 
+                        Loop="True" MovieUrl="~/img/A2.swf" Width="918px" XHTMLcompliant="True" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">Anasayfa</asp:HyperLink>
+&nbsp;&nbsp;
+                    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/uyekayit.aspx">Üye ol</asp:HyperLink>
+                    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Profilbilgi.aspx" 
+                        Visible="False">Profil Bilgileriniz</asp:HyperLink>
+                </td>
+            </tr>
+            <tr>
+                <td class="style3">
+                    <div style="height: 687px; width: 93px">
+                        <asp:Menu ID="Menu1" runat="server" DynamicVerticalOffset="20">
+                            <DynamicHoverStyle ForeColor="Red" />
+                        </asp:Menu>
+                    </div>
+                </td>
+                <td class="style2">
+                    <div style="height: 683px">
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                    </div>
+                </td>
+                <td class="style3">
+                    <div style="height: 689px">
+                        <table style="width:100%;">
+                            <tr>
+                                <td colspan="2">
+                                    <asp:Label ID="mesaj" runat="server" Text="Hoşgeldin Misafir  ziyaretçi"></asp:Label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Kullanıcı Adı:</td>
+                                <td>
+                                    <asp:TextBox ID="kuladitext" runat="server"></asp:TextBox>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Şifre</td>
+                                <td>
+                                    <asp:TextBox ID="sifretext" runat="server"></asp:TextBox>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" colspan="2">
+                                    <asp:Button ID="Button1" runat="server" Text="Giriş" onclick="Button1_Click" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

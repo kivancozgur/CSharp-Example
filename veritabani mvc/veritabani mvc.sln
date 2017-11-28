@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veritabani mvc", "veritabani mvc\veritabani mvc.csproj", "{1C5F9BD5-72EC-4AC8-AE70-40B1BFF48C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F9BD5-72EC-4AC8-AE70-40B1BFF48C47}.Debug|x86.ActiveCfg = Debug|x86
+		{1C5F9BD5-72EC-4AC8-AE70-40B1BFF48C47}.Debug|x86.Build.0 = Debug|x86
+		{1C5F9BD5-72EC-4AC8-AE70-40B1BFF48C47}.Release|x86.ActiveCfg = Release|x86
+		{1C5F9BD5-72EC-4AC8-AE70-40B1BFF48C47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

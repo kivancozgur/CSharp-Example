@@ -1,0 +1,23 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\okul.mdf
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\okul_log.ldf
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.exe.config
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.pdb
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.exe.config
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.exe
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.pdb
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\okul.mdf
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\okul_log.ldf
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.exe
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\bin\Debug\Kivanc_Donem2_Temrin9.pdb
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.Form1.resources
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Kivanc_Donem2_Temrin9\Kivanc_Donem2_Temrin9\obj\x86\Debug\Kivanc_Donem2_Temrin9.csproj.GenerateResource.Cache
